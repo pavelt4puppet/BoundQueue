@@ -1,3 +1,5 @@
+This is an exercise to exemplify ones coding skills, ability to follow instruction, creativity, attention to detail, and problem resolution.
+
 ## Java Exercise: Implement a Bounded Producer Consumer Queue
 
 Implement a Bounded Producer Consumer queue in Java. A producer consumer queue is a queue that multiple producer threads can add data to and multiple consumer threads can read data from concurrently. The queue you implement must be fixed length (bounded) and implement the ProducerConsumerQueue interface provided. The implementation should preferably use generics.
